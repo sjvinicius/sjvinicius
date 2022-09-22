@@ -6,7 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-silvaj/)](https://www.linkedin.com/in/vinicius-silvaj/)
 [![Gmail Badge](https://img.shields.io/badge/-sjf.vinicius@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:sjf.vinicius@gmail.com)](mailto:sjf.vinicius@gmail.com)
 
- Estudando ReactJS <br />
 📚 Estudando ReactJS <br />
 
 #### Habilidades e Experiência
