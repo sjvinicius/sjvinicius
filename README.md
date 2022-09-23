@@ -9,16 +9,19 @@
 📚 Estudando ReactJS <br />
 
 #### Habilidades e Experiência
-* ![CISCO Badge](https://img.shields.io/badge/-Cisco-blue?style=plastic&logo=cisco&logoColor=white)
-* ![HTML5 Bagde](https://img.shields.io/badge/-HTML5-e34f26?style=plastic&logo=html5&logoColor=white)
-![CSS3 Bagde](https://img.shields.io/badge/-CSS3-1572b6?style=plastic&logo=css3&logoColor=white)
-![JavaScript Bagde](https://img.shields.io/badge/-JavaScript-f7df1e?style=plastic&logo=javascript&logoColor=white)
-![React Bagde](https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white)
-![React Bagde](https://img.shields.io/badge/-PHP-blueviolet?style=plastic&logo=php&logoColor=white)
-* ![Microsoft_SQL_Server Bagde](https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
-![MySQL Bagde](https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=mysql&logoColor=white)
-* ![Git Bagde](https://img.shields.io/badge/-Git-f05032?style=plastic&logo=git&logoColor=white)
-![GitHub Bagde](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white)
+* ![CISCO Badge](https://img.shields.io/badge/-Cisco-blue?for-the-badge&logo=cisco&logoColor=white)
+* ![HTML5 Bagde](https://img.shields.io/badge/-HTML5-e34f26?for-the-badge&logo=html5&logoColor=white)
+![CSS3 Bagde](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Bagde](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
+![React Bagde](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white)
+![React Bagde](https://img.shields.io/badge/-PHP-blueviolet?style=for-the-badge&logo=php&logoColor=white)
+* ![Microsoft_SQL_Server Bagde](https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL Bagde](https://img.shields.io/badge/-MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+* ![Git Bagde](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Bagde](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### Aprendendo
+* ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-yellow?style=for-the-badge&logo=typescript&logoColor=white)
 
 Obrigado pelo visita!
 
