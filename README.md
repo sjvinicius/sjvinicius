@@ -23,9 +23,9 @@
 
 #### Aprendendo
 * ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-yellow?style=for-the-badge&logo=typescript&logoColor=white)
- ![ViteTs Badge](https://img.shields.io/badge/-TypeScript-blueviolet?style=for-the-badge&logo=vite&logoColor=white)
+ ![ViteTs Badge](https://img.shields.io/badge/-ViteJS-blueviolet?style=for-the-badge&logo=vite&logoColor=white)
  ![Styled_Components Badge](https://img.shields.io/badge/-Styled_Components-ff69b4?style=for-the-badge&logo=styledcomponents&logoColor=white)
- ![NodeJS Badge](https://img.shields.io/badge/-node-brightgreen?style=for-the-badge&logo=node.js&logoColor=white)
+ ![NodeJS Badge](https://img.shields.io/badge/-NodeJS-brightgreen?style=for-the-badge&logo=node.js&logoColor=white)
  ![NextJS Badge](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 Obrigado pelo visita!
