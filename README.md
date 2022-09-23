@@ -9,8 +9,8 @@
 📚 Estudando ReactJS <br />
 
 #### Habilidades e Experiência
-* ![CISCO Badge](https://img.shields.io/badge/-Cisco-blue?for-the-badge&logo=cisco&logoColor=white)
-* ![HTML5 Bagde](https://img.shields.io/badge/-HTML5-e34f26?for-the-badge&logo=html5&logoColor=white)
+* ![CISCO Badge](https://img.shields.io/badge/-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)
+* ![HTML5 Bagde](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Bagde](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Bagde](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
 ![React Bagde](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white)
