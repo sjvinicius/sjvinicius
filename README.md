@@ -13,6 +13,7 @@
 ![CSS3 Bagde](https://img.shields.io/badge/-CSS3-1572b6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript Bagde](https://img.shields.io/badge/-JavaScript-f7df1e?style=plastic&logo=javascript&logoColor=white)
 ![React Bagde](https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white)
+![React Bagde](https://img.shields.io/badge/-PHP-blueviolet?style=plastic&logo=php&logoColor=white)
 * ![Microsoft_SQL_Server Bagde](https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
 ![MySQL Bagde](https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=mysql&logoColor=white)
 * ![Git Bagde](https://img.shields.io/badge/-Git-f05032?style=plastic&logo=git&logoColor=white)
