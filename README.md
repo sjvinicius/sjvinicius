@@ -5,7 +5,7 @@
 ### 📫 Como chegar até mim 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius_Silva-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-silvaj/)](https://www.linkedin.com/in/vinicius-silvaj/)
 [![Gmail Badge](https://img.shields.io/badge/-sjf.vinicius@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sjf.vinicius@gmail.com)]
-
+(mailto:sjf.vinicius@gmail.com)
 📚 Estudando ReactJS <br />
 
 #### Habilidades e Experiência
