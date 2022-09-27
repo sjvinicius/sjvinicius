@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sjf.vinicius@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sjf.vinicius@gmail.com)](mailto:sjf.vinicius@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-(11)_9_5980_5820-white?style=for-the-badge&logo=whatsapp)](tel:11959805820)
 
-📚 Estudando ReactJS <br />
+<hr />
 
 #### Habilidades e Experiência
 * ![CISCO Badge](https://img.shields.io/badge/-Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)
