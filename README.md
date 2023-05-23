@@ -36,8 +36,7 @@ Aqui estão alguns exemplos dos meus projetos recentes:
 ## Meios de Contato
 Você pode entrar em contato comigo pelos seguintes meios:
 
-- [![Email](https://img.shields.io/badge/-Email-red)](mailto:seuemail@example.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/seuperfil)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/seuperfil)
+- [![Email](https://img.shields.io/badge/-Email-red)](mailto:sjf.vinicius@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/vinicius-silvaj/)
 
 Ficarei feliz em conversar e discutir qualquer oportunidade de colaboração ou projeto interessante.
