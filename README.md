@@ -1,6 +1,8 @@
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sjvinicius&color=yellow" alt="Profile views" /></p>
+
 # Resumo
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sjvinicius&color=yellow" alt="Profile views" /> </p>
+
 ## Sobre mim
 Olá, sou um desenvolvedor com experiência em **JavaScript**, **HTML**, **PHP**, **CSS**, **React** e **React Native**. Também possuo conhecimento em **PHP** e bancos de dados **MySQL**. Além disso, tenho experiência em Linux, serviços de rede e estou aprendendo a trabalhar com **AWS**, **TypeScript** e **Next.js**. Tenho formação técnica em Desenvolvimento de Sistemas e Redes de Computadores.
 
