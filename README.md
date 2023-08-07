@@ -2,10 +2,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjvinicius&color=yellow" alt="Profile views" /></p>
 
 
-|                   |                   |
-|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjvinicius&theme=dracula&show_icons=true)](https://github.com/sjvinicius/github-readme-stats) | ![](https://github-readme-streak-stats.herokuapp.com/?user=sjvinicius&theme=dracula) |
-
+<div align="center">
+  <a href="https://github.com/mercurio236">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjvinicius&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=sjvinicius&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjvinicius&layout=compact&langs_count=5&theme=algolia"/>
+</div>
+    
 # Resumo
 
 ## Sobre mim
