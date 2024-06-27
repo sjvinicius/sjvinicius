@@ -40,9 +40,8 @@ Estou atualmente ampliando meus conhecimentos nas seguintes áreas:
 ## Projetos
 Aqui estão alguns exemplos dos meus projetos recentes:
 
-- 🚀 **Nome do Projeto 1**: Descrição breve do projeto, tecnologias utilizadas e principais funcionalidades.
-- 🚀 **Nome do Projeto 2**: Descrição breve do projeto, tecnologias utilizadas e principais funcionalidades.
-- 🚀 **Nome do Projeto 3**: Descrição breve do projeto, tecnologias utilizadas e principais funcionalidades.
+- 🚀 **Extensão OK Entrega**: Desenvolvimento de uma extensão para o Visual Studio Code que disponibiliza Snippets, e padroniza extensões de formatação de arquivos PHP e JavaScript. Foi utilizado TypeScript para desenvolvimento da extensão, e algumas configurações ficam registradas em arquivos .JSON.
+- 🚀 **Lavaravel PRJ**: Por fins acadêmicos, de início a utilizar laravel para a construção de um sistema de reservas com foco culinário. Desenvolvido em PHP e MYSQL, utilizando também contâineres Docker.
 
 ## Meios de Contato
 Você pode entrar em contato comigo pelos seguintes meios:
