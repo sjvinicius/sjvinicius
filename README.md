@@ -1,60 +1,307 @@
-<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sjvinicius&color=blue" alt="Profile views" /></p>
+<div align="center">
 
+# 👨🏻‍💻 Vinicius Silva
+
+### `Full Stack Developer` · `Backend Focus`
+
+**Construindo sistemas web, APIs e soluções que conectam software, dados e automação.**
+
+<br>
+
+<a href="https://github.com/sjvinicius">
+  <img src="https://img.shields.io/badge/GitHub-sjvinicius-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/vinicius-silvaj/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sjvinicius&style=for-the-badge&color=blue" />
+
+</div>
+
+---
+
+## ⚡ About
+
+```text
+Backend-first developer
+        ↓
+APIs + Databases + Web Applications
+        ↓
+Automation + Integrations + Computer Vision
+        ↓
+Turning ideas into working software
+```
+
+🎓 **Bacharel em Ciência da Computação**
+
+💼 **Desenvolvedor Full Stack — foco em Backend**
+
+🧩 Experiência profissional com **PHP, SQL, JavaScript e APIs**
+
+🚀 Atualmente explorando **Next.js, Python, Supabase e soluções com visão computacional**
+
+---
+
+# 🧠 Tech Stack
 
 <div align="center">
-  <a href="https://github.com/mercurio236">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjvinicius&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=sjvinicius&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjvinicius&layout=compact&langs_count=5&theme=algolia"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,python,nodejs" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
+
+### Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+
+### Infrastructure & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,vercel" />
+
 </div>
-    
-# Resumo
 
-## Sobre mim
-Olá, sou um desenvolvedor com experiência em **JavaScript**, **HTML**, **PHP**, **CSS**, **React** e **React Native**. Também possuo conhecimento em **PHP** e bancos de dados **MySQL**. Além disso, tenho experiência em Linux, serviços de rede e estou aprendendo a trabalhar com **AWS**, **TypeScript** e **Next.js**. Tenho formação técnica em Desenvolvimento de Sistemas e Redes de Computadores.
+---
 
-## Experiência em Desenvolvimento
-Tenho um histórico sólido em desenvolvimento de aplicações web e mobile, utilizando as tecnologias mais recentes. Minhas principais habilidades incluem:
+# 🛠️ What I Build
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) Domínio avançado da linguagem, incluindo conceitos fundamentais, manipulação de eventos, requisições assíncronas e uso de bibliotecas e frameworks populares, como Node.js.
-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) e ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) Proficiência em criação de layouts responsivos e estilização de páginas web com HTML semântico e CSS moderno.
-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) Experiência prática no desenvolvimento de aplicações web com React, incluindo criação de componentes reutilizáveis, gerenciamento de estado com Redux e integração com APIs RESTful.
-- ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react) Habilidade em construir aplicativos móveis nativos para iOS e Android utilizando o framework React Native, incluindo criação de interfaces, navegação, integração com APIs e publicação nas respectivas lojas de aplicativos.
-- ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) Conhecimento em desenvolvimento de aplicações web com PHP, incluindo manipulação de formulários, conexão com bancos de dados e criação de APIs.
-- ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) Experiência em trabalhar com bancos de dados MySQL, incluindo criação de tabelas, consultas SQL e otimização de consultas.
-- ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux) Conhecimento em ambiente Linux, incluindo administração de servidores, gerenciamento de pacotes e configuração de serviços.
-- ![Redes](https://img.shields.io/badge/-Redes-05122A?style=flat&logo=pc) Conhecimento em serviços de rede, como DNS, DHCP, TCP/IP e VPN.
+<div align="center">
 
-## Conhecimentos em Desenvolvimento em Expansão
-Estou atualmente ampliando meus conhecimentos nas seguintes áreas:
+|  🧩 | Área                |                                           |
+| :-: | ------------------- | ----------------------------------------- |
+|  ⚙️ | **Backend**         | APIs REST · PHP · Python · SQL            |
+|  🌐 | **Web**             | React · Next.js · JavaScript · TypeScript |
+| 🗄️ | **Data**            | MySQL · PostgreSQL · Supabase             |
+|  🔌 | **Integrations**    | APIs externas · Webhooks · Serviços       |
+|  🤖 | **Computer Vision** | LPR · OCR · Face Recognition              |
+|  🚀 | **Deployment**      | Linux · Docker · Vercel                   |
 
-- ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws) Aprendendo a trabalhar com a plataforma AWS, incluindo serviços como EC2, S3 e RDS.
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) Estudando e aplicando TypeScript em projetos para melhorar a qualidade e escalabilidade do código.
-- ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) Explorando o framework Next.js para o desenvolvimento de aplicações web com React de forma otimizada e eficiente.
+</div>
 
-## Formação
-- ![Curso Técnico em Desenvolvimento de Sistemas](https://img.shields.io/badge/-Desenvolvimento_de_Sistemas-green) Conclusão do curso técnico, adquirindo conhecimentos sólidos em lógica de programação, estruturação de bancos de dados, desenvolvimento de aplicações e resolução de problemas.
-- ![Curso Técnico em Redes de Computadores](https://img.shields.io/badge/-Redes_de_Computadores-red) Conclusão do curso técnico, adquirindo conhecimentos em configuração de redes, administração de servidores, segurança de redes e solução de problemas de conectividade.
+---
 
-## Projetos
-Aqui estão alguns exemplos dos meus projetos recentes:
+# 🚀 Featured Projects
 
-- 🚀 **Extensão OK Entrega**: Desenvolvimento de uma extensão para o Visual Studio Code que disponibiliza Snippets, e padroniza extensões de formatação de arquivos PHP e JavaScript. Foi utilizado TypeScript para desenvolvimento da extensão, e algumas configurações ficam registradas em arquivos .JSON.
-- 🚀 **Lavaravel PRJ**: Por fins acadêmicos, de início a utilizar laravel para a construção de um sistema de reservas com foco culinário. Desenvolvido em PHP e MYSQL, utilizando também contâineres Docker.
+## 🏠 Mol·D
 
-## Meios de Contato
-Você pode entrar em contato comigo pelos seguintes meios:
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/vinicius-silvaj/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-vinicius-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+### `Design × Technology`
+
+> E-commerce desenvolvido para uma marca de objetos e luminárias produzidos em 3D.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,supabase,postgres,vercel" />
+
+</div>
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
+
+**Features**
+
+```text
+🛒 Cart
+🔐 Authentication
+💳 Payment Integration
+📦 Orders
+🖼️ Storage
+🔎 SEO
+⚡ Server / Client Architecture
+```
+
+<a href="https://mol-d.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Project-Visit-000000?style=for-the-badge&logo=vercel" />
 </a>
-<a href="https://www.instagram.com/viny.sj/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-vinicius-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="mailto:sjf.vinicius@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-vinicius-05122A?style=flat&logo=gmail" alt="youtube"/>
-</a>
-</p>
 
-Ficarei feliz em conversar e discutir qualquer oportunidade de colaboração ou projeto interessante.
+---
+
+## 🚗 Face Plate
+
+### `Computer Vision × Edge Computing`
+
+> Sistema experimental de baixo custo para reconhecimento de placas e faces utilizando câmeras convencionais.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,nextjs,postgres,supabase,linux" />
+
+</div>
+
+**Pipeline**
+
+```text
+Camera
+   ↓
+Detection
+   ↓
+License Plate / Face
+   ↓
+OCR / Recognition
+   ↓
+Validation
+   ↓
+Event Queue
+   ↓
+Web Dashboard
+```
+
+**Technologies**
+
+`Python` `Flask` `YOLO` `OCR` `InsightFace` `Next.js` `Supabase` `PostgreSQL`
+
+---
+
+## 🧩 OK Entrega
+
+### `Developer Productivity`
+
+> Extensão para VS Code criada para acelerar e padronizar o desenvolvimento de projetos.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,vscode,git,github" />
+
+</div>
+
+```text
+Snippets
+   +
+Formatting
+   +
+Developer Utilities
+   ↓
+Faster Development
+```
+
+`TypeScript` `JSON` `VS Code Extension API`
+
+---
+
+# 💻 Professional Experience
+
+```text
+PHP
+████████████████████████████████
+
+SQL / MySQL
+████████████████████████████████
+
+JavaScript
+████████████████████████████
+
+REST APIs
+████████████████████████████
+
+Next.js / React
+██████████████████████
+
+Python
+███████████████████
+
+Supabase / PostgreSQL
+██████████████████
+
+Docker / Linux
+████████████████
+```
+
+> Experiência construída principalmente através de desenvolvimento de sistemas, manutenção de aplicações existentes, integrações e criação de novas funcionalidades.
+
+---
+
+# 🔧 Things I Like Building
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│   APIs                    Web Applications             │
+│                                                        │
+│   Database Systems        Automations                  │
+│                                                        │
+│   Integrations            Developer Tools              │
+│                                                        │
+│   Computer Vision         Edge Applications            │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+### 🎓 Bacharel em Ciência da Computação
+
+**UNICID**
+
+### 💻 Técnico em Desenvolvimento de Sistemas
+
+**SENAI**
+
+### 🌐 Técnico em Redes de Computadores
+
+**SENAI**
+
+</div>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sjvinicius&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://streak-stats.demolab.com/?user=sjvinicius&theme=github-dark-blue&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjvinicius&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+# 🧭 Currently Exploring
+
+<div align="center">
+
+`Python` · `Next.js` · `TypeScript` · `Supabase` · `Computer Vision`
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vinicius-silvaj/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sjf.vinicius@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/sjvinicius">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### `Code → Build → Improve → Repeat`
+
+</div>
